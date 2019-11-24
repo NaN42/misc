@@ -1,18 +1,20 @@
-# Données statistiques simples
+# Résultats sondage NaN 2019
+
+## Données statistiques simples
 
 L'ensemble de ces données est bien entendu à modérer par le fait que nous nous basons sur un peu moins de 200 répondants.
 
-## Tranche d'âge
+### Tranche d'âge
 
 ![Ages](Sondage/Age.PNG)
 
-## Sexe
+### Sexe
 
 Moins de 7% de femmes. Largement inférieur à ce qu'on trouve dans le domaine informatique (estimé à environ 25%).
 
 ![Sexe](Sondage/Sexe.PNG)
 
-## Région d'origine
+### Région d'origine
 
 Très vaste majorité originaire de France, quelques personnes de Belgique et plus rarement du Canada, de l'Algérie et du Maroc
 
@@ -20,31 +22,31 @@ Très vaste majorité originaire de France, quelques personnes de Belgique et pl
 
 (Oui il manque le tableau des chiffres, mais en fait c'est parce que ... Attention Jérémy derrière toi c'est affreux !)
 
-## Situations
+### Situations
 
 ![Situation](Sondage/Situation.PNG)
 
-## Cursus suivis
+### Cursus suivis
 
 ![Cursus](Sondage/Cursus.PNG)
 
-## Métiers (pratiqués ou ciblés)
+### Métiers (pratiqués ou visés)
 
 ![Métiers](Sondage/Métier.PNG)
 
-## Domaines d'intérêt
+### Domaines d'intérêt
 
 ![Domaines](Sondage/Domaine%20d'int%C3%A9r%C3%AAt.PNG)
 
-## Comment avez vous entendu parler de NaN ?
+### Comment avez vous entendu parler de NaN ?
 
 ![Entendu](Sondage/Entendu.PNG)
 
-## Votre activité sur le serveur
+### Votre activité sur le serveur
 
 ![Activité](Sondage/Activit%C3%A9%20sur%20NaN.PNG)
 
-# Résumé des questions ouvertes
+## Résumé des questions ouvertes
 
 La communauté formée ici est d'après vous un atout. Une tendance générale est que la
 majorité d'entre vous cherchaient des passionnés de développement et plus généralement
@@ -183,9 +185,9 @@ Lynix vous aime, et il est très content :)
 Lynix aiment souvent vos lettres et le drama qui les accompagnent.
 Parfois Lynix n'aime pas que vous envoyiez des lettres avec du drama.
 
-# Pour le Lulz
+## Pour le Lulz
 
-## Listes des personnes à bannir
+### Listes des personnes à bannir
 
 Random, Shika, Lynix, Les gens qui respectent les règles, @everyone, IAMISSAM, Dreais,
 Mortim, Nicolas, Razakel, Les anti-rust, 90% des membres, Personne, Dr Peuk, Lui, Pas lui,
@@ -195,7 +197,7 @@ purge décidera.
 
 Nous essayons de démêler les contradictions, on vous tient au jus.
 
-## Personnes à passer modo
+### Personnes à passer modo
 
 Yamashi, TnTakara, Lui, Lynix, Les gens qui aident, IAMISSAM, Sami, Les pro-Rust, Personne
 9.82% des membres, PowerFR, Sakuto, Dr Peuk, Personne, Random, Lazor, Le répondant numéro 81,
@@ -204,13 +206,13 @@ La commode à linge de Dr Peuk, @eveyrone sauf Random, Rayan, Ardakaniz.
 
 Nous essayons aussi de démêler ce bazar.
 
-## Ne devrait plus être modo
+### Ne devrait plus être modo
 
 Lynix, Pas Lynix, Sokatu, IAMISSAM, Lui, Dieu, Faites du Rust, Personne,
 0.18% des membres, Loïc, Random, @everyone sauf les répondants 81 et 83, Jean Marie le Pen,
 Dr Peuk, Nous tous, Charles, Les anti-rust, Praetonus
 
-## Avez vous déjà entendu parler des langages qui sauvent le monde ?
+### Avez vous déjà entendu parler des langages qui sauvent le monde ?
 
 ![Sauveur](Sondage/Sauveur.PNG)
 
