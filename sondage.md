@@ -46,7 +46,7 @@ Très vaste majorité originaire de France, quelques personnes de Belgique et pl
 
 La communauté formée ici est d'après vous un atout. Une tendance générale est que la
 majorité d'entre vous cherchaient des passionnés de développement et plus généralement
-d'informatique. Ils ont eux la surprise de trouver une communauté vraiment nombreuse et
+d'informatique. Ils ont eu la surprise de trouver une communauté vraiment nombreuse et
 active. la qualité et la pertinence des réponses est globalement appréciée, même si 
 certains membres disent avoir l'impression que l'on esquive ou ignore leurs questions.
 Du côté du staff, nous n'avons que très peu vu de telles situations. Il faut bien
@@ -200,7 +200,7 @@ Yamashi, TnTakara, Lui, Lynix, Les gens qui aident, IAMISSAM, Sami, Les pro-Rust
 Raza, Artemis, Kwak, DevelopHeureShell, Not a Bot, Mortim, Shika, Tatsushiro,
 La commode à linge de Dr Peuk, @eveyrone sauf Random, Rayan, Ardakaniz.
 
-Nous essayons auss de démêler ce bazar.
+Nous essayons aussi de démêler ce bazar.
 
 ## Ne devrait plus être modo
 
