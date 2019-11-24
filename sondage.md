@@ -183,7 +183,7 @@ puisse "gérer" les énergumènes responsables.
 Le mot du fondateur:
 
 Lynix vous aime, et il est très content :)
-Lynix aiment souvent vos lettres et le drama qui les accompagnent.
+Lynix aime souvent vos lettres et le drama qui les accompagnent.
 Parfois Lynix n'aime pas que vous envoyiez des lettres avec du drama.
 
 ## Pour le Lulz
