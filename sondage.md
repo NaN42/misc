@@ -114,7 +114,8 @@ Parmi les sujets demandés, on trouve les questions de sécurité et de hacking,
 d'informatique théorique, de développement Mobile, et le langage Ruby. La difficulté d'un
 canal sécurité est que l'on devrait en permanence flirter avec les limites de la légalité,
 ce qui est complexe avec une communauté de cette taille. Pour l'informatique théorique,
-cela semble être une portion assez faible de la communauté. (Mobile ? Peut être gérable non ?).
+cela semble être une portion assez faible de la communauté. Un sondage sera ouvert pour
+la programmation d'application mobile.
 Le canal Ruby a fait l'objet d'un test et après plusieurs semaines sans aucun message, il
 n'a pas semblé raisonnable de le conserver.
 
