@@ -18,6 +18,8 @@ Très vaste majorité originaire de France, quelques personnes de Belgique et pl
 
 ![Pays](Sondage/Pays.PNG)
 
+(Oui il manque le tableau des chiffres, mais en fait c'est parce que ... Attention Jérémy derrière toi c'est affreux !)
+
 ## Situations
 
 ![Situation](Sondage/Situation.PNG)
