@@ -169,7 +169,7 @@ mur, nous n'hésiterons pas à le dire en retour. N'oubliez pas que si vous vous
 dedans, les participants auront une attente forte envers vous, c'est tout autant une 
 occasion de vous faire bien voir comme de vous mal voir.
 
-Finalement pour les recontres IRL, (* hum, quoi dire ? *)
+Finalement pour les recontres IRL, nous en avons organisé quelques unes jusqu'ici (principalement à Paris et à Lyon) et avons pu passer un moment agréable avec quelques-un d'entre vous, nous continuerons à en organiser mais cela demande également pas mal de temps et d'organisation de la part de beaucoup de personnes, et la taille croissante du serveur nous pousse à nous demander comment gérer un grand nombre de personnes, freinant un peu l'idée d'IRL dans les grandes villes (type Paris) en attente d'une bonne solution.
 
 Certains commentaires font état d'insultes par MP. Quand cela vous arrive, ne vous contentez
 pas d'ignorer. Envoyez un MP au Staff avec des screenshots de la conversation, que l'on
